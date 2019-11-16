@@ -1,0 +1,2 @@
+# devmac
+ mac developer machine
