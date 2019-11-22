@@ -10,7 +10,7 @@ Run setup command to install the following tools:
 - VirtualBox
 - Vagrant and Vagrant Manager
 - Oh My Zsh for pretty CLI
-- Node and NVM although we encourage using VM box instead
+- Node 12 and NVM although we encourage using VM box instead
 
 ```
 ./hello-mac.sh
