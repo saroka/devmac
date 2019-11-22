@@ -1,0 +1,12 @@
+# don't version your ssh keys
+ssh/*.pem
+
+# don't version your vpn access
+vpn/client.ovpn
+vpn/credentials
+
+# any logs
+*.log
+
+# vagrant runtime file
+.vagrant
