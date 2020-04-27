@@ -11,6 +11,12 @@ brew cask install virtualbox
 brew cask install vagrant
 brew cask install vagrant-manager
 
+# install Visual Studio Code
+brew cask install visual-studio-code
+
+# install VLC media player
+brew cask install vlc
+
 # start virtual machine as configured on Vagrantfile
 vagrant up
 
